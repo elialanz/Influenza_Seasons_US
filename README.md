@@ -4,5 +4,5 @@ This project analyzes influenza trends using Excel for data cleaning, summarizat
 The goal was to identify seasonal patterns and regional differences in influenza cases while practicing the complete data analysis workflow, from raw data to visual storytelling.
 
 
-## Tableau Visualization Link
+## Tableau Visualization Project Link
 https://public.tableau.com/app/profile/elia.lanzuise/viz/MappingInfluenzaDeathsInUSA/InfluenzaDeathsInUS
