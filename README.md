@@ -18,18 +18,19 @@ The project began with a rigorous data profiling phase in Excel, where I transfe
 
 This formed the foundation of the Data Profile of Raw Data sheet, establishing a transparent overview of how the information was organized before analysis.
 
-Next, I performed a detailed data-integrity assessment.
+**Next, I performed a detailed data integrity assessment.**
 
 Using Excel functions such as MIN, MAX, and AVERAGE, I calculated descriptive statistics for all quantitative variables to evaluate data accuracy spotting unrealistic outliers and verifying that averages aligned with expected epidemiological ranges. I then built frequency tables for categorical fields (state, year, gender, and cause) to evaluate data consistency and identify issues such as spelling variations, inconsistent date formats, and non standard state names.
 
 After documenting every integrity issue, I moved to the Cleaned Data tab, where I corrected all formatting, naming, and structural inconsistencies.
 
-In this stage, this is what I did:
+**In this stage, this is what I did:**
 - Standardized state and region names
 - Reformatted dates for time-series compatibility
 - Removed redundant text fields
 - Applied uniform numeric precision
 - Added missing category labels where appropriate
+- Used VLOOKUP formula to merge parts of data together
 
 In the Data Profile of Cleaned Data sheet, I listed all transformations made to improve data quality, and recalculated the summary statistics to confirm that values now aligned with expected ranges.
 A new Data Integrity of Cleaned Data tab was then created to validate that cleaning improved accuracy and internal consistency, ensuring each variable’s minimum, maximum, and mean reflected realistic values and that no invalid categories remained.
