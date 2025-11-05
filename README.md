@@ -1,4 +1,4 @@
-**Tableau Visualization Project Link →** https://public.tableau.com/app/profile/elia.lanzuise/viz/MappingInfluenzaDeathsInUSA/InfluenzaDeathsInUS
+**Tableau Visualization Project Link ↓** https://public.tableau.com/app/profile/elia.lanzuise/viz/MappingInfluenzaDeathsInUSA/InfluenzaDeathsInUS
 
 ## Influenza Seasons US Project
 
