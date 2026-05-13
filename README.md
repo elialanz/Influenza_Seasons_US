@@ -47,3 +47,11 @@ After completing the full Excel based profiling and cleaning, I imported the fin
 - Apply descriptive statistics and frequency analysis for quality assurance.
 - Clean and standardize structured data for analytical use.
 - Combine Excel based data preparation with Tableau storytelling to communicate insights clearly to decision makers.
+
+---
+
+## About
+
+Built by **Elia Lanz**, a freelance data analyst specialising in [operational dashboards for businesses with hidden demand patterns](https://www.elialanz.com/dashboard-service/), retail, transport, booking-based services, and e-commerce.
+
+[See how I work with clients →](https://www.elialanz.com/dashboard-service/) · [Other data services I offer →](https://www.elialanz.com/hire-me/) · [elialanz.com](https://www.elialanz.com)
